@@ -9,7 +9,7 @@ Clone da interface do LinkedIn com o efeito de loading Shimmer effect. A aplica�
 
 
 <h1 align="center">
-  <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2020-08-20_10-28_44t2COSgk.gif" height="425" width="425">
+  <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2020-08-20_10-28_44t2COSgk.gif" height="425" width="700">
 <h1>
 
 ## Veja como rodar a aplicação:
