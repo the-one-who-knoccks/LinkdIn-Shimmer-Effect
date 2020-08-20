@@ -26,5 +26,7 @@ Clone da interface do LinkedIn com o efeito de loading Shimmer effect. A aplica√
  
  $ yarn start
  ```
+ 
+ Thanks to @rocketseat @guilhermerodz
 
 
