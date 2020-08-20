@@ -9,9 +9,22 @@ Clone da interface do LinkedIn com o efeito de loading Shimmer effect. A aplica�
 
 
 <h1 align="center">
-  <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2020-08-20_10-28_44t2COSgk.gif">
+  <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2020-08-20_10-28_44t2COSgk.gif" height="425">
 <h1>
 
+## Veja como rodar a aplicação:
 
+```bash
+
+# Clone o respositório com o comando:
+
+ $ git clone https://github.com/the-one-who-knoccks/LinkdIn-Shimmer-Effect
+ 
+ $ cd LinkedIn-Shimmer-Effect
+ 
+ # Rode o comando yarn para instalar as dependências e em seguida:
+ 
+ $ yarn start
+ ```
 
 
