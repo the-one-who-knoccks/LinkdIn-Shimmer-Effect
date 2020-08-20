@@ -1,3 +1,4 @@
+Clone da interface do LinkedIn com o efeito de loading Shimmer effect. A aplicação foi desenvolvida com React + TypeScript.
 
 
 <p align="center">
