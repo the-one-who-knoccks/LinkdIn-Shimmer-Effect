@@ -11,7 +11,7 @@ Clone da interface do LinkedIn com o efeito de loading Shimmer effect. A aplica√
 
 ## Veja como rodar a aplica√ß√£o:
 
-```bash
+```bash  
 
 # Clone o resposit√≥rio com o comando:
 
@@ -27,3 +27,4 @@ Clone da interface do LinkedIn com o efeito de loading Shimmer effect. A aplica√
  Thanks to @rocketseat @guilhermerodz
 
 
+  
